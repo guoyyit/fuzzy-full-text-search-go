@@ -1,0 +1,10 @@
+{
+  "max_edit_distance": 2,
+  "field_weights": {
+    "title": 3.0,
+    "tags": 2.0
+  },
+  "default_field_weight": 1.0,
+  "fuzzy_penalty": 0.3,
+  "phrase_proximity_bonus": 0.5
+}

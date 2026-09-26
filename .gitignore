@@ -1,0 +1,4 @@
+# 本地运行产生的数据目录与二进制
+/fsearch-data/
+*.log
+/fsearch
